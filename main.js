@@ -1,7 +1,7 @@
 var interval = 1; // query interval in seconds
 var bounceInterval = 15; // label bounce interval in seconds
-var username = 'john.doe'; // your Last.FM username
-var apiKey = "fb5daac5ce459db403f5cd24c9ddc04a";
+var username = 'Or1GG1n'; // your Last.FM username
+var apiKey = "9c9e57e2d865bd4674bbd61dc147126b";
 
 var root = document.getElementById('root');
 var nowPlaying = document.getElementById('nowplaying');
